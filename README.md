@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)&nbsp;
 
-I'm always learning something new...
+and I'm always about learning a new technology. 😄
 
 <hr>
 
