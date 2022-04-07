@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm a Norwegian Full Stack Developer and Designer
-- 🔭 Currently working on Mimir - A hotel booking system written in PHP/Laravel and JavaScript
+- 🔭 Currently working full time at one of Norway's leading e-commerce platforms and on my free time on Mimir - A hotel booking system written in PHP/Laravel and JavaScript
 - 📫 You can get in touch with me through twitter or mail@nyeeventyr.no
 - ⚡ Fun fact: Have been over 65 km/h on longboard
 
