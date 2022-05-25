@@ -35,8 +35,9 @@
 
 
 
-### I'm currently about learning
+### I'm currently learning more about
 ![Python](https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![PyGame](https://img.shields.io/badge/PyGame-444444?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 
 
 
