@@ -32,10 +32,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)&nbsp;
-
-
-
-### I'm currently learning more about
 ![Python](https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![PyGame](https://img.shields.io/badge/PyGame-444444?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 
