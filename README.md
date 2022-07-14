@@ -1,4 +1,6 @@
-Norwegian full stack developer working at one of Norway's largest e-commerce platforms. 
+### Howdy
+
+I'm a Norwegian full stack developer working at one of Norway's largest e-commerce platforms. On my free time I'm doing sideprojects written in languages like PHP, Python and C#.
 
 
 ### Technologies I know
