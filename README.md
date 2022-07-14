@@ -1,11 +1,7 @@
-### Hi there 👋 I'm a Norwegian Full Stack Developer and Designer
-- 🔭 Currently working full time at one of Norway's leading e-commerce platforms and on my free time on Mimir - A hotel booking system written in PHP/Laravel and JavaScript
-- 📫 You can get in touch with me through twitter or mail@nyeeventyr.no
-- ⚡ Fun fact: Have been over 65 km/h on longboard
+Norwegian full stack developer working at one of Norway's largest e-commerce platforms. 
 
 
-
-### I often find myself using
+### Technologies I know
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
