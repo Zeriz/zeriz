@@ -1,6 +1,6 @@
 ### Howdy
 
-I'm a Norwegian full stack developer working at one of Norway's largest e-commerce platforms. On my free time I'm doing sideprojects written in languages like PHP, Python and C#.
+I'm a Norwegian full stack developer working at one of Norway's largest e-commerce platforms. On my free time I'm doing sideprojects written in languages like PHP and Python. I'm always open to try out new languages and will be doing so in the near future. 
 
 
 ### Technologies I know
