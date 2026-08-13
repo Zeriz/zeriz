@@ -2,7 +2,7 @@
 
 I'm a Norwegian full stack developer and a very much code agnostic programmer. I enjoy learning new languages and technologies.
 
-Currently working on [JuriSign][https://jurisign.no], which is in live testing now. Launch incoming Q3/Q4 in 2026.
+Currently working on [JuriSign](https://jurisign.no), which is in live testing now. Launch incoming Q3/Q4 in 2026.
 
 
 ### Technologies I know
