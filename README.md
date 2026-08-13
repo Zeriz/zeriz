@@ -1,6 +1,8 @@
 ### Howdy
 
-I'm a Norwegian full stack developer. 
+I'm a Norwegian full stack developer and a very much code agnostic programmer. I enjoy learning new languages and technologies.
+
+Currently working on [JuriSign][https://jurisign.no], which is in live testing now. Launch incoming Q3/Q4 in 2026.
 
 
 ### Technologies I know
@@ -32,8 +34,6 @@ I'm a Norwegian full stack developer.
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![PyGame](https://img.shields.io/badge/PyGame-444444?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
-
-
 
 
 <hr>
